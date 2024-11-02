@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BeratMert29
+- 👋 Hi, I’m BeratMert
 - 👀 I’m interested in full-stack and game development
 - 🌱 I’m currently learning Java Spring Boot
 - 📫 How to reach me beratmertgokkaya21@gmail.com
