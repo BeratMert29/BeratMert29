@@ -1,6 +1,6 @@
 - 👋 Hi, I’m BeratMert
 - 👀 I’m interested in full-stack and game development
-- 🌱 I’m currently Natural Language Processing
+- 🌱 I’m currently learning Natural Language Processing
 - 📫 How to reach me beratmertgokkaya21@gmail.com
 
 <!---
