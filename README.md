@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Berat Mert
 - 👀 I’m interested in machine learning and game development
-- 🌱 I’m currently learning Natural Language Processing
+- 🌱 I’m currently learning Image Processing
 - 📫 How to reach me beratmertgokkaya21@gmail.com
 
 <!---
