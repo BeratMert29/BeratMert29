@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Berat Mert
-- 👀 I’m interested in machine learning and game development
-- 🌱 I’m currently learning Image Processing with Python
-- 📫 How to reach me beratmertgokkaya21@gmail.com
+# 👋 Hi, I’m Berat Mert
 
-<!---
-BeratMert29/BeratMert29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 Passionate about **Machine Learning** and **Game Development**  
+🔍 Currently exploring **Image Processing with Python**  
+🎮 Love creating interactive experiences and experimenting with AI  
+
+## 🌐 Connect with Me
+[![Gmail Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:beratmertgokkaya21@gmail.com)  
