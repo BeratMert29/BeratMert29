@@ -5,4 +5,5 @@
 🎮 Love creating interactive experiences and experimenting with AI  
 
 ## 🌐 Connect with Me
-[![Gmail Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:beratmertgokkaya21@gmail.com)  
+[![Gmail Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:beratmertgokkaya21@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/beratmertgokkaya)  
