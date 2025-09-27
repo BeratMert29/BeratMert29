@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Berat Mert Gökkaya
 
 <div align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Machine+Learning+%26+AI+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
+  <h3>🎓 Software Engineering Student</h3>
+  <h3>🤖 Machine Learning & AI Enthusiast</h3>
 </div>
+
 
 ## 💻 Programming Languages
 
@@ -35,12 +37,6 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeratMert29&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
 ## 🌐 Connect with Me
 
