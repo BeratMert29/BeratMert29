@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Berat Mert Gökkaya
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Machine+Learning+&+AI+Enthusiast;" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Machine+Learning+%26+AI+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
 </div>
 
 ## 💻 Programming Languages
